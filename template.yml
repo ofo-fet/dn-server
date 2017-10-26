@@ -2,10 +2,10 @@
 # @Date:      2017-Oct-25 11:13:43 am
 # @Email:     hooper.echo@gmail.com, hucheng-rj@ofo.com
 # @Filename:  template.yml
-# @Last modified by:   hooper
-# @Last modified time: 2017-Oct-25 11:22:38 am
+# @Last modified by:   hucheng-rj
+# @Last modified time: 2017-Oct-26 2:55:03 pm
 
 
 ofo-node:
-    location: 'dn-template-node'
+    location: 'dn-template-ofo-web'
     summary:  'Node.js Project Template'
