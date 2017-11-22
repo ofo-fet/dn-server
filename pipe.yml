@@ -3,26 +3,19 @@
 # @Email:  hooper.echo@gmail.com, hucheng-rj@ofo.com
 # @Filename: pipe.yml
 # @Last modified by:   hucheng-rj
-# @Last modified time: 2017-Oct-30 3:09:09 pm
-
-
-init:
-  - name:   pkginfo
+# @Last modified time: 2017-Nov-22 10:18:17 pm
 
 dev:
-  - name:   clean
-
-build:
-  - name:   clean
+  - name:   shell
+    script:
+      - npm run dev
 
 test:
-  - name:   lint
-  - name:   unit
+  - name:   shell
+    script:
+      - npm run lint
 
-# publish:
-#   - name:   shell
-#     script:
-#       - dn test
-#       - dn build
-#       - npm pu
-#       - dn run operate
+build:
+  - name:   shell
+    script:
+      - npm run build
