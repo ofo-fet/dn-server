@@ -5,7 +5,10 @@
 # @Last modified by:   hucheng-rj
 # @Last modified time: 2017-Oct-26 3:01:33 pm
 
-
 ofo-node:
     location: 'dn-template-ofo-web'
     summary:  'Node.js Project Template'
+
+ofo-misc-pages:
+    location: '@ofo/dn-template-ofo-misc-pages'
+    summary:  'ofo mispage'
