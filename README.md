@@ -21,7 +21,12 @@ dn config server https://raw.githubusercontent.com/ofo-hooper/ofo-dawn/master
 ### 创建私有的脚手架(模板/ template).
 ### npm publish(首次需要 npm adduser/ npm login)
 
+ofo 内部项目千万记得要 publish 到 10.6.0.168:7001 上.
+
 publish 要注意你发布到那个源上, 如果是官方源, 切回 npm 的 registry.
 npm config set registry http://registry.npmjs.org
 
 淘宝镜像: --registry=https://registry.npm.taobao.org
+
+
+## step three

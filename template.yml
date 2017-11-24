@@ -3,12 +3,16 @@
 # @Email:     hooper.echo@gmail.com, hucheng-rj@ofo.com
 # @Filename:  template.yml
 # @Last modified by:   hucheng-rj
-# @Last modified time: 2017-Oct-26 3:01:33 pm
+# @Last modified time: 2017-Nov-24 5:32:39 pm
 
-ofo-node:
-    location: 'dn-template-ofo-web'
-    summary:  'Node.js Project Template'
+ofo-noah:
+    location: '@ofo/dn-template-noah'
+    summary:  'Noah 项目基础脚手架 - web'
 
 ofo-misc-pages:
     location: '@ofo/dn-template-ofo-misc-pages'
-    summary:  'ofo mispage'
+    summary:  'Vue2单页工程模版 - h5'
+
+ofo-vue-tpl-multiple:
+    location: '@ofo/dn-template-ofo-vue-tpl-multiple'
+    summary:  'Vue2多页工程模版 - h5'
