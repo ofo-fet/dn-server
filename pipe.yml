@@ -3,14 +3,14 @@
 # @Email:  hooper.echo@gmail.com, hucheng-rj@ofo.com
 # @Filename: pipe.yml
 # @Last modified by:   hucheng-rj
-# @Last modified time: 2017-Nov-23 1:52:45 pm
+# @Last modified time: 2017-Nov-24 6:20:26 pm
 
 # 前置规则，会合并到工程本地配置的前边
 before:
   dev:
     - name:   shell
       script:
-        - npm run dev
+        - npm run start
 
   test:
     - name:   shell
