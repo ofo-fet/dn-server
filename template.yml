@@ -3,14 +3,14 @@
 # @Email:     hooper.echo@gmail.com, hucheng-rj@ofo.com
 # @Filename:  template.yml
 # @Last modified by:   hucheng-rj
-# @Last modified time: 2017-Nov-24 5:32:39 pm
+# @Last modified time: 2017-Nov-27 11:19:41 am
 
 ofo-noah:
     location: '@ofo/dn-template-noah'
     summary:  'Noah 项目基础脚手架 - web'
 
 ofo-misc-pages:
-    location: '@ofo/dn-template-ofo-misc-pages'
+    location: '@ofo/dn-template-ofo-vue-tpl-single'
     summary:  'Vue2单页工程模版 - h5'
 
 ofo-vue-tpl-multiple:
