@@ -9,8 +9,8 @@ ofo-noah:
     location: '@ofo/dn-template-noah'
     summary:  'Noah 项目基础脚手架 - web'
 
-ofo-misc-pages:
-    location: '@ofo/dn-template-ofo-vue-tpl-single'
+ofo-vue-tpl-single:
+    location: '@ofo/dn-template- ofo-vue-tpl-single'
     summary:  'Vue2单页工程模版 - h5'
 
 ofo-vue-tpl-multiple:
