@@ -1,9 +1,9 @@
 # @Author:    hooper
 # @Date:      2017-Oct-25 11:13:43 am
-# @Email:     hooper.echo@gmail.com, hucheng-rj@ofo.com
+# @Email:     hooper.echo@gmail.com
 # @Filename:  template.yml
 # @Last modified by:   hucheng-rj
-# @Last modified time: 2017-Dec-05 2:31:24 pm
+# @Last modified time: 2017-Dec-11 1:42:20 pm
 
 ofo-noah:
     location: '@ofo/dn-template-noah'
