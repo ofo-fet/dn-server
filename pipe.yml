@@ -8,9 +8,8 @@
 # 前置规则，会合并到工程本地配置的前边
 before:
   dev:
-    - name:   shell
-      script:
-        - npm run start
+    - name:   ofo-demo
+      message: ofo
 
   test:
     - name:   shell
