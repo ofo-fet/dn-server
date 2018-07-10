@@ -17,6 +17,6 @@ ofo-vue-tpl-multiple:
     location: '@ofo/dn-template-ofo-vue-tpl-multiple'
     summary:  'Vue2多页工程模版 - h5'
     
-ofo-react-dev:
+ofo-react-dva:
     location: '@ofo/dn-template-react-dva2'
     summary:  '后端(mis 类)系统模板'
